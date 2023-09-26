@@ -1,0 +1,19 @@
+/* body {
+  min-height: 3000px;
+} */
+
+.jumbotron {
+  padding-top: 2rem;
+  background-color: #e2edff;
+}
+
+#galerry {
+  background-color: #e2edff;
+}
+
+#contact {
+  margin-bottom: 4rem;
+}
+footer {
+  height: 3rem;
+}
